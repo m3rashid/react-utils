@@ -2,21 +2,36 @@
 
 # ⚛️ react-utils
 
-**Commonly-used, non-trivial React components.**
+### Commonly-used, non-trivial React components
 
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
+
+## 📖 Overview
+
+A collection of commonly-used, non-trivial React components — virtualized lists and OTP inputs — built with TypeScript and Vite.
 
 ## 🧩 Components
 
 - **Virtualization** — virtualized list
 - **OTP input** — OTP entry component
 
-## 🛠 Tech
+## 🏗 Project structure
+
+```
+react-utils/
+├── src/
+│   ├── otp/
+│   ├── virtualizedList/
+│   └── app.tsx
+└── vite.config.ts
+```
+
+## 🛠 Tech stack
 
 `React` · `TypeScript` · `Vite`
 
@@ -31,4 +46,4 @@ pnpm dev
 
 ## 📄 License
 
-MIT
+MIT © [m3rashid](https://github.com/m3rashid)
