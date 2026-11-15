@@ -1,6 +1,23 @@
-### React Utils
+# react-utils
 
-Implementation for commonly-used and non-trivial react-components
+Commonly-used, non-trivial React components.
 
-1. Virtualization
-2. OTP input
+## Includes
+
+- Virtualization
+- OTP input
+
+## Tech
+
+React · TypeScript · Vite
+
+## Quick start
+
+```bash
+pnpm install
+pnpm dev
+```
+
+## License
+
+MIT
